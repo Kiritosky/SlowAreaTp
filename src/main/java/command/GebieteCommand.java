@@ -21,7 +21,7 @@ public class GebieteCommand implements CommandExecutor {
         }
 
         Player player = (Player) sender;
-        player.playSound(player.getLocation(), Sound.BLOCK_CHEST_OPEN, 1.0f, 1.0f);
+        player.playSound(player.getLocation(), Sound.BLOCK_TRIPWIRE_CLICK_ON, 1.0f, 1.0f);
         GebieteGui.openGebieteGUI(player);
         return true;
     }
