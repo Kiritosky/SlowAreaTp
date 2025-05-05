@@ -1,5 +1,5 @@
 name: SlowAreaTp
-version: '1.1'
+version: '1.2'
 main: plugin.slowAreaTp.SlowAreaTp
 api-version: '1.21'
 authors: [ Jxst_Kirito ]
