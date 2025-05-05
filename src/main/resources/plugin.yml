@@ -1,0 +1,10 @@
+name: SlowAreaTp
+version: '1.0'
+main: plugin.slowAreaTp.SlowAreaTp
+api-version: '1.21'
+authors: [ Jxst_Kirito ]
+
+commands:
+  gebiete:
+    description: Öffnet ein GUI zum Teleportieren zu verschiedenen Gebieten
+    usage: /gebiete
