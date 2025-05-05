@@ -8,3 +8,8 @@ commands:
   gebiete:
     description: Öffnet ein GUI zum Teleportieren zu verschiedenen Gebieten
     usage: /gebiete
+
+permission:
+  gebiete.open:
+    description: Erlaubt es dem Spieler, das GUI zu benutzen
+    default: true
