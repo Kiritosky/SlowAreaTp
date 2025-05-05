@@ -30,6 +30,7 @@ public class GebieteListener implements Listener {
                 player.closeInventory();
                 player.teleport(destination);
                 player.playSound(player.getLocation(), Sound.BLOCK_BEACON_ACTIVATE, 1.0f, 1.0f);
+                player.sendMessage(ChatColor.translateAlternateColorCodes('&', "&f &8&l[&c&lTeleport&8&l] &eDu wurdest zu " + destination.getWorld().getName() + " teleportiert!"));
             }
         }
     }
