@@ -1,11 +1,10 @@
 # SlowAreaTp
 
-Ein Minecraft-Plugin, das Spielern ermöglicht, sich in einer bestimmten Zone langsam zu teleportieren.
+Ein Minecraft-Plugin, das Spielern ermöglicht, sich in einer bestimmten Zone zu teleportieren.
 
 ## Funktionen
-
-- **Langsames Teleportieren**: Spieler werden in einer vorgegebenen Zone langsam teleportiert, anstatt sofort.
-- **Konfigurierbare Zonen**: Zonen können über eine Konfigurationsdatei oder Befehle erstellt und angepasst werden.
+.
+- **Konfigurierbare Zonen**: Zonen können über eine Konfigurationsdatei erstellt und angepasst werden.
 - **Einfache Integration**: Das Plugin ist leicht in bestehende Server zu integrieren.
 
 ## Installation
